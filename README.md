@@ -27,4 +27,4 @@ The JavaScript code utilizes modern ES6+ syntax and DOM manipulation to add func
 
 This project can be deployed to a web hosting service such as Netlify or GitHub Pages. Here is the link to the deployed project:
 
-[Netlify Link](#) <!-- Replace "#" with the actual link -->
+[Netlify Link](https://desserts-shoppingcart.netlify.app/)
